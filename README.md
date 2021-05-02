@@ -28,3 +28,7 @@ a.	The contract address can be obtained from the localhost:3000 page or from the
 11.	Refresh the page and check to see the contract has received the ETH (the balance is reported at the bottom of the page)
 12.	You may now select the candidates to vote on and interact with the DApp
 13.	You may also interact with the DApp from the POV of other Ganache accounts to observe the Ranked Choice Algorithm behaviour
+
+Screenshot of DApp Operation:
+
+![image](https://user-images.githubusercontent.com/71515789/116817004-6f5ccf80-ab32-11eb-9cb4-11cfbe13a7fc.png)
